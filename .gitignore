@@ -1,0 +1,9 @@
+# Binaries and object files
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+build/
+.vscode/
+.idea/
